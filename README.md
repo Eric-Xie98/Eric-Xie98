@@ -3,8 +3,3 @@
 - 🌱 I’m currently learning Computer / Electrical Engineering and Computer Science at Duke University!
 - 💞️ I’m looking to find an exciting internship for Summer 2023 to further develop my field!
 - 📫 You can reach me at eric.xie989@gmail.com or eric.xie@duke.edu!
-
-<!---
-Eric-Xie98/Eric-Xie98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
